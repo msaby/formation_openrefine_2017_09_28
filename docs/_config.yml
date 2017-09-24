@@ -1,2 +1,30 @@
+github: [metadata]
+encoding: UTF-8
+kramdown:
+  input: GFM
+  hard_wrap: false
+future: true
+jailed: false
+#theme: jekyll-theme-primer
+theme: minima
+gfm_quirks: paragraph_end
+
 permalink: pretty
-title: Formation OpenRefine
+title: Formation OpenRefine URFIST PACA
+author: Mathieu Saby
+email: mathsabypro@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  Formation à OpenRefine assurée en septembre 2017
+  En deux parties
+twitter_username: 27point7
+github_username:  msaby
+
+# Minima date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%b %-d, %Y"
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+# - about.html
