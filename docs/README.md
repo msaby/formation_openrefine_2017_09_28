@@ -1,17 +1,3 @@
-# Formation OpenRefine du 28/09/2017, URFIST PACA, par Mathieu Saby`
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/bruth/jekyll-docs-template/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
-Diaporama, données et documents complémentaires
-
-## Séance d'initiation
-* [Initiation](initiation.md)
-
-## Séance d'approfondissement
-* [Approfondissement](approfondissement.md)
-
-## Documentation officielle
-
-## Tutoriels
-
-## Autres sources
-
-## Licence
+Read the docs: http://bruth.github.io/jekyll-docs-template
